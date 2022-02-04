@@ -1,0 +1,53 @@
+body {
+  background-color: #f0fff0;
+}
+
+h1 {
+  text-align: center;
+  color: #b22222;
+}
+
+table {
+  border-collapse: collapse;
+  width: 75%;
+  font: Georgia, serif;
+}
+
+th,
+td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid black;
+}
+
+tr:nth-child(even) {
+  background-color: #e6e6fa;
+}
+
+.hov {
+  background-color: #f0fff0;
+}
+
+.hov:hover {
+  background-color: #e6e6fa;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  opacity: 0.75;
+  float: left;
+  padding: 50px 50px 50px;
+  border: 0.5px solid black;
+  margin-right: 25px;
+}
+
+h2 {
+  color: #b22222;
+}
+
+form {
+  font-family: Georgia, serif;
+}

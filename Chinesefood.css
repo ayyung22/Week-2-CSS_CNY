@@ -1,0 +1,46 @@
+body {
+  background-color: #f0fff0;
+}
+
+h1 {
+  text-align: center;
+  color: #b22222;
+}
+
+h2 {
+  color: #b22222;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+ul {
+  color: #fa8072;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+
+.hov {
+  background-color: #f0fff0;
+}
+
+.hov:hover {
+  background-color: #e6e6fa;
+}
+
+p {
+  text-align: center;
+}
+
+#center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.hov {
+  opacity: 0.5;
+}
+
+.hov:hover {
+  opacity: 1;
+}

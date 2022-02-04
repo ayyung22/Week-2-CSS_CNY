@@ -1,0 +1,38 @@
+body {
+  background-color: #f0fff0;
+}
+
+h1 {
+  color: #b22222;
+  text-align: center;
+}
+
+img {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  font-family: cursive;
+  color: #fa8072;
+  font-size: 30px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.hov {
+  background-color: #f0fff0;
+}
+
+.hov:hover {
+  background-color: #e6e6fa;
+}
+
+p {
+  text-align: center;
+}
